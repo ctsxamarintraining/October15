@@ -1,0 +1,13 @@
+Please follow object oriented programming while creating the below programs. Each program below should be written in a separate class and expose the functionality using methods and also write comments wherever necessary.
+
+1. Write a program that reads a file and writes out a new file with the lines in reversed order (i.e. the first line in the old file becomes the last one in the new file.)
+
+2. Create a folder with few nested files and sub-folders (not less than 3 levels). Write a recursive function to copy the source folder to a destination folder along with all the contents in it.
+
+3. Create a file with text content (say more than 1Mb). Write a function which copies the contents of the file using Stream Reader/Writer with a help of byte array into another source destination. note: the byte array's maximum size should be declared as 500 bytes.
+
+4. Using any Symmetric-key encryption algorithm,
+	 a. Read the text from console and save the encrypted text content to the file.
+	 b. Read the same file, decrypt the contents and display in the output console.
+	 
+5. Create an object of any class and serialize it to a file using JSON serialization. (use Newtonsoft.json NuGet package if needed).
