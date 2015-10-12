@@ -1,0 +1,1 @@
+1) Write extention Methods for string for getting no of words, No of characters without white spaces.
