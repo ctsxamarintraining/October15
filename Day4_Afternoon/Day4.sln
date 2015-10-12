@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4.ExceptionsTraining", "Day4.ExceptionsTraining\Day4.ExceptionsTraining.csproj", "{0E248A64-EF4C-4C71-9510-6E696A1C02B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4.UnhandledExceptions", "Day4.UnhandledExceptions\Day4.UnhandledExceptions.csproj", "{9A558333-F842-472A-BB76-C140C5D29190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E248A64-EF4C-4C71-9510-6E696A1C02B3}.Debug|x86.ActiveCfg = Debug|x86
+		{0E248A64-EF4C-4C71-9510-6E696A1C02B3}.Debug|x86.Build.0 = Debug|x86
+		{0E248A64-EF4C-4C71-9510-6E696A1C02B3}.Release|x86.ActiveCfg = Release|x86
+		{0E248A64-EF4C-4C71-9510-6E696A1C02B3}.Release|x86.Build.0 = Release|x86
+		{9A558333-F842-472A-BB76-C140C5D29190}.Debug|x86.ActiveCfg = Debug|x86
+		{9A558333-F842-472A-BB76-C140C5D29190}.Debug|x86.Build.0 = Debug|x86
+		{9A558333-F842-472A-BB76-C140C5D29190}.Release|x86.ActiveCfg = Release|x86
+		{9A558333-F842-472A-BB76-C140C5D29190}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

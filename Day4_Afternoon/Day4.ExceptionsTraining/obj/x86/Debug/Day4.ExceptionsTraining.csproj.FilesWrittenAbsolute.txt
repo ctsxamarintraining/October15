@@ -1,0 +1,5 @@
+/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/bin/Debug/Day4.ExceptionsTraining.exe.mdb
+/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/bin/Debug/Day4.ExceptionsTraining.exe
+/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/obj/x86/Debug/Day4.ExceptionsTraining.exe
+/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/obj/x86/Debug/Day4.ExceptionsTraining.exe.mdb

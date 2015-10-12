@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Day4.UnhandledExceptions/Day4.UnhandledExceptions.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day4.UnhandledExceptions/IntrestRateCalcException.cs">
+    <Files>
+      <File FileName="Day4.ExceptionsTraining/Employee.cs" Line="23" Column="39" />
+      <File FileName="Day4.UnhandledExceptions/Program.cs" Line="13" Column="4" />
+      <File FileName="Day4.ExceptionsTraining/Program1.cs" Line="15" Column="9" />
+      <File FileName="Day4.UnhandledExceptions/IntrestRateCalcException.cs" Line="8" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day4" expanded="True">
+            <Node name="Day4.ExceptionsTraining" expanded="True" />
+            <Node name="Day4.UnhandledExceptions" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="IntrestRateCalcException.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/Program1.cs" line="23" column="1" />
+      <Breakpoint file="/Users/mspuser/Documents/C# Training/Day4/Day4.ExceptionsTraining/Program1.cs" line="27" column="1" />
+      <Breakpoint file="/Users/mspuser/Documents/C# Training/Day4/Day4.UnhandledExceptions/Program.cs" line="21" column="1" />
+      <Breakpoint file="/Users/mspuser/Documents/C# Training/Day4/Day4.UnhandledExceptions/Program.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
