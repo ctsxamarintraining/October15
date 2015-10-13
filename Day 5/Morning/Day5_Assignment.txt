@@ -1,1 +1,5 @@
-1) Write extention Methods for string for getting no of words, No of characters without white spaces.
+1) Write extension Methods for string for getting no of words, No of characters without white spaces.
+2) Create Nullable Type. Assign null and to print value in console. Assign a value and print value in console.
+3) Create delegate and assign anonymous method to it and execute the method using delegate.
+4) Create anonymous type with properties Name, Id and City and print them in console. 
+5) Create the partial classes in two file with two methods each. And call them in main method.
