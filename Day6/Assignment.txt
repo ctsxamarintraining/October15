@@ -1,0 +1,3 @@
+1. Implement double LinkedList for a Person class (which contains Id, Name , Location properties) and use enumerator to iterate through each item. Note: Dont not use any default classes, only use either IEnumerable/IEnumerator.
+
+2. 
