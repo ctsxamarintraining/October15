@@ -1,3 +1,9 @@
-1. Implement double LinkedList for a Person class (which contains Id, Name , Location properties) and use enumerator to iterate through each item. Note: Dont not use any default classes, only use either IEnumerable/IEnumerator.
+1. Implement double LinkedList for a Person class (which contains Id, Name , Location properties) and use enumerator to iterate through each item and print the values on console. Note: Dont not use any default classes, only use either IEnumerable/IEnumerator.
 
-2. 
+2. Implement IList<T> interface and perform operations to add, remove, contains, clear all. Note: use only a array as backing field in your class, do not use default list classes provided by .NET
+
+3. Implement stack and Queue using array as backing field in the class.
+
+4. Using .Net provided List<T> and Dictionary<Tkey,TValue>, perform operations for Add,AddRange, Remove, Contains, InsertAt, Clear.
+
+5. Implement IEqualityComparer and IComparer for any custom class and give an example for both interfaces by using any of the default classes/methods in .NET which are accepting these interfaces.
