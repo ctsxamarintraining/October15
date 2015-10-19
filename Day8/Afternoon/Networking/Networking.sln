@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking", "Networking\Networking.csproj", "{34E432B6-A931-43FC-8848-2B536F247CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingWindows", "NetworkingWindows\NetworkingWindows.csproj", "{38722E8A-987D-4560-BA8C-EA3261103DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonHttpRequestDemo", "JsonHttpRequestDemo\JsonHttpRequestDemo.csproj", "{34FBF134-F82F-4813-BEE3-B6669B3CC03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E432B6-A931-43FC-8848-2B536F247CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E432B6-A931-43FC-8848-2B536F247CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E432B6-A931-43FC-8848-2B536F247CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E432B6-A931-43FC-8848-2B536F247CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38722E8A-987D-4560-BA8C-EA3261103DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38722E8A-987D-4560-BA8C-EA3261103DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38722E8A-987D-4560-BA8C-EA3261103DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38722E8A-987D-4560-BA8C-EA3261103DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FBF134-F82F-4813-BEE3-B6669B3CC03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FBF134-F82F-4813-BEE3-B6669B3CC03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FBF134-F82F-4813-BEE3-B6669B3CC03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FBF134-F82F-4813-BEE3-B6669B3CC03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
